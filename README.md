@@ -8,7 +8,7 @@ Based on our initial vulnerability scan and assessment, we have created a set of
 1. [**Third-Party Software Removal (Wireshark)**](https://github.com/josephbcompton08/automation/blob/c6fba2e711b2a14ff215bc231db4bbf0255c996a/remediation-wireshark-uninstall.ps1)
 2. [**Windows OS Secure Configuration (Insecure Protocols)**](https://github.com/josephbcompton08/automation/blob/main/toggle-protocols.ps1)
 3. [**Windows OS Secure Configuration (Insecure Ciphersuites)**](https://github.com/josephbcompton08/automation/blob/main/toggle-cipher-suites.ps1)
-4. [**Windows OS Secure Configuration (Guest Account Group Membership)**](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-guest-local-administrators.ps1)
+4. [**Windows OS Secure Configuration (Guest Account Group Membership)**](https://github.com/josephbcompton08/automation/blob/main/toggle-guest-local-administrators.ps1)
 
 Let me know if you have any questions or need any adjustments!
 
